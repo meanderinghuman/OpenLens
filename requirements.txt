@@ -1,0 +1,11 @@
+tensorflow
+torch
+torchvision
+faiss-cpu  # Use faiss-gpu if you have CUDA
+Pillow
+numpy
+scikit-learn
+tqdm
+ftfy
+regex
+clip @ git+https://github.com/openai/CLIP.git
