@@ -1,0 +1,9 @@
+Model,Mean Precision,Mean Recall,F1 Score,Evaluation Time (s)
+resnet,0.7000,0.0354,0.0673,4.56
+clip,0.6480,0.0327,0.0623,1.30
+efficientnet,0.6400,0.0323,0.0615,3.03
+autoencoder,0.5160,0.0261,0.0496,1.01
+siamese,0.6560,0.0331,0.0631,0.81
+triplet,0.6720,0.0339,0.0646,0.77
+lsh,0.6800,0.0343,0.0654,10.84
+hybrid,0.7400,0.0374,0.0712,4.59
