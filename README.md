@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/meanderinghuman/OpenLens/blob/main/OpenLens_logo.png" alt="OpenLens Logo" width="250"/>
 </p>
+![OpenLens Logo](ttps://github.com/meanderinghuman/OpenLens/blob/main/OpenLens_logo.png)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20PyTorch-orange)
