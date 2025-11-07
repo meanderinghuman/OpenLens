@@ -119,7 +119,7 @@ This project is licensed under the **MIT License** © 2025 Siddharth Pal
 ## 📬 Contact
 **Maintainer:** Siddharth Pal  
 📧 Email: siddharthpal@live.com  
-🔗 LinkedIn: [https://linkedin.com/in/siddharthpal](https://linkedin.com/in/siddharthpal)
+🔗 LinkedIn: [https://linkedin.com/in/sidpnyc](https://linkedin.com/in/sidpnyc)
 
 ---
 
