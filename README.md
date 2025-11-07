@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/meanderinghuman/OpenLens/blob/main/OpenLens_logo.png" alt="OpenLens Logo" width="500"/>
 </p>
-
-<h1 align="center">🟦 OpenLens</h1>
 <p align="center">
   <b>Reverse-Engineered Visual Product Search Framework</b><br>
   <i>Open-source replication of Google Lens for AI-based product retrieval</i>
