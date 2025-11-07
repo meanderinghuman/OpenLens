@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=OpenLens_logo.png" alt="OpenLens Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/<username>/OpenLens/main/OpenLens_logo.png" alt="OpenLens Logo" width="220"/>
 </p>
 
 <h1 align="center">🟦 OpenLens</h1>
