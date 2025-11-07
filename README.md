@@ -1,3 +1,22 @@
+<p align="center">
+  <img src=OpenLens_logo.png" alt="OpenLens Logo" width="220"/>
+</p>
+
+<h1 align="center">🟦 OpenLens</h1>
+<p align="center">
+  <b>Reverse-Engineered Visual Product Search Framework</b><br>
+  <i>Open-source replication of Google Lens for AI-based product retrieval</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue"/>
+  <img src="https://img.shields.io/badge/Framework-TensorFlow%20%7C%20PyTorch-orange"/>
+  <img src="https://img.shields.io/badge/License-MIT-green"/>
+  <img src="https://img.shields.io/badge/Status-Active-blueviolet"/>
+</p>
+
+---
+
 # 🟦 OpenLens: Reverse-Engineered Google Lens for Visual Product Search
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
