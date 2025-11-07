@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/meanderinghuman/OpenLens/blob/main/OpenLens_logo.png" alt="OpenLens Logo" width="500"/>
+  <img src="https://github.com/meanderinghuman/OpenLens/blob/main/OpenLens_logo.png" alt="OpenLens Logo" width="250"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
